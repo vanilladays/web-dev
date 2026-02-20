@@ -1,0 +1,27 @@
+body { 
+    background-color: powderblue;
+    color: black;
+
+} 
+h1 { 
+    text-align: left;
+    color: black; 
+
+} 
+h2 { 
+    color: black;
+    font-style: normal 
+} 
+
+.class { 
+    color: black   
+
+} 
+
+#id { 
+    color: black;
+
+} 
+
+
+
