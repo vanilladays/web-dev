@@ -1,0 +1,55 @@
+h1 {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+
+
+}
+
+
+
+.whatever {
+    color: black;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 5px;
+    background: linear-gradient(90deg, #cf6c63, #cc493d, #961f14 );
+    border: 5px solid black;
+
+}
+
+
+h2 {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+
+}
+
+p {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    padding: 25px;
+    margin: 25px;
+}
+
+h4 {
+    color: black;
+    text-align: center;
+    padding: 25px;
+    margin: 25px;
+
+}
