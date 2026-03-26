@@ -1,0 +1,122 @@
+h1 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+
+
+}
+
+img {
+    width: 33%;
+    margin-left: 33%;
+}
+
+.wrapper {
+    color: black;
+    width: 33%;
+    padding: 20px;
+    margin: 30px;
+    margin-left: 20%;
+    margin-right: 33%;
+    text-align: center;
+
+}
+
+.chickfilabtn {
+    color: black;
+    width: 33%;
+    padding: 20px;
+    margin-left: 33%;
+    margin-right: 33%;
+    text-align: center;
+    color: white;
+}
+
+.chickfilabtn:hover {
+    color: black;
+    padding: 25px;
+    border-radius: 25px;
+
+}
+
+.chickfilabtn:visited {
+    background-color: aqua;
+    color: black;
+
+}
+
+
+.button {
+    display: block;
+    width: 25%;
+    margin-left: 37%;
+    text-align: center;
+    background: linear-gradient(90deg, #46B1C9, #84C0C6, #9FB7B9, #BCC1BA, #F2E2D2);
+    font-size: 40px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.button:hover {
+    color: black;
+    padding: 25px;
+    border-radius: 25px;
+
+}
+
+.button:visited {
+    background-color: white;
+    color: black;
+
+}
+
+
+.N3RDbtn {
+    color: black;
+    width: 33%;
+    padding: 20px;
+    margin-left: 50%;
+    margin-right: 50%;
+    text-align: center;
+    color: white;
+}
+
+.N3RDbtn:hover {
+    color: black;
+    padding: 25px;
+    border-radius: 25px;
+
+}
+
+.N3RDbtn:visited {
+    background-color: white;
+    color: black;
+
+}
+
+
+.luckybtn {
+    color: black;
+    width: 33%;
+    padding: 20px;
+    margin-left: 50%;
+    margin-right: 50%;
+    text-align: center;
+    color: white
+}
+
+.luckybtn:hover {
+    color: black;
+    padding: 25px;
+    border-radius: 25px;
+
+}
+
+
+.luckybtn:visited {
+    background-color: white;
+    color: black;
+
+}
