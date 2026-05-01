@@ -1,0 +1,165 @@
+#wrapper {
+    text-align: center;
+    color: pink;
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr 3fr 1fr;
+    grid-template-rows: auto;
+}
+
+#maincat {
+    grid-column: 3;
+    width: 100%;
+}
+
+h1 {
+    grid-column: 3;
+    text-align: center;
+    color: #90DDF0;
+}
+
+nav {
+    grid-column: 3;
+}
+
+nav a {
+    display: block;
+}
+
+#cafecat {
+    grid-column: 3;
+    width: 100%;
+
+}
+
+h3 {
+    color: #AFA2FF;
+    grid-column: 3;
+}
+
+#menu_header {
+    grid-column: 3;
+    color: #90DDF0;
+}
+
+
+
+#home_button {
+    grid-column: 3;
+
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+#home_button:hover {
+    color: black;
+    background-color: white;
+}
+
+#menu_images {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column: 2/5;
+}
+
+#Mainmenu {
+    grid-column: 1;
+    width: 100%;
+    grid-row: 3;
+    display: inline-block;
+
+}
+
+#Dessertmenu {
+    grid-column: 2;
+    grid-row: 3;
+    width: 100%;
+    display: inline-block;
+}
+
+#wrapper2 {
+    text-align: center;
+}
+
+#home_return {
+    grid-column: 3;
+    padding: 15;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    grid-row: 2;
+}
+
+#home_return:hover {
+    color: black;
+    background-color: white;
+}
+
+#contact_cat {
+    grid-column: 3;
+    width: 100%;
+}
+
+form {
+    grid-column: 3;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+}
+
+input {
+    grid-column: 2;
+    padding: 10px
+}
+
+label {
+    grid-column: 1;
+    padding: 10px;
+    color: #AFA2FF;
+}
+
+h2 {
+    color: #90DDF0;
+    grid-column: 3;
+}
+
+ol {
+    grid-column: 3;
+    color: #AFA2FF;
+    font-weight: bolder;
+    text-align: left;
+}
+
+#list-holder {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column: 3;
+}
+
+#list {
+    color: #AFA2FF;
+    text-align: left;
+    grid-column: 1;
+}
+
+#Secondlist {
+    color: #AFA2FF;
+    text-align: left;
+    grid-column: 2;
+}
+
+table {
+    grid-column: 3;
+    color: #AFA2FF;
+    border: 1px solid #AFA2FF;
+}
+
+th,
+td {
+    border: 1px solid #AFA2FF;
+}
+
+#cat4 {
+    text-align: center;
+    grid-column: 3;
+    width: 100%;
+
+}
